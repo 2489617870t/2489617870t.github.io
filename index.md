@@ -1,4 +1,4 @@
 
 <script>
-  window.location.href="https://blog.csdn.net/kingyuan666"
+  window.location.href="http://42.192.56.28"
 </script>
