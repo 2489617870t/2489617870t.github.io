@@ -1,7 +1,7 @@
 ##欢迎来到GitHub页面，您可以使用[GitHub](https://github.com/2489617870t/2489617870t.github.io/edit/main/index.md)上的编辑器来维护和预览您的网站在Markdown文件中的内容。当您承诺使用这个存储库时，GitHub页面将运行[Jekyll](https://jekyllrb.com/)用于从Markdown文件中的内容重建站点中的页面)。Nn#Markdown nMarkdown是一种轻量级且易于使用的语法，用于样式化您的写作。它包括n‘n`’标记n语法的约定，突出显示代码块n n#头1 n#头2 n##头3n符号n-list n n1。编号为N2。列出n n**Bold**和_意大利语文本n[link](Url)和！[Image](Src)n`n‘n’nor详细信息见[基本书写和格式化syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).]Nn#Jekyll主题n nYour页面站点将使用您在[存储库settings](https://github.com/2489617870t/2489617870t.github.io/settings/pages).]中选择的Jekyll主题的布局和样式。此主题的名称保存在Jekyll`_config.yml`配置文件中。支持或联系页面是否有麻烦？查看我们的[documentation](https://docs.github.com/categories/github-pages-basics/)或[联系人支持](https://support.github.com/contact))，我们将帮助您解决这个问题。
 <script>
 
-  window.location.href="42.192.56.28"
+  window.location.href="http://42.192.56.28/"
 
 </script>
 
